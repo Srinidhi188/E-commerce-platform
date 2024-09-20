@@ -2,7 +2,7 @@ E-Commerce Platform
 Description
 A responsive e-commerce platform built using HTML, CSS, and JavaScript. This application allows users to browse products, add them to a shopping cart, and view their selections with total pricing. Local storage is utilized to persist cart data across sessions.
 
-live link:
+live link: https://bit.ly/4equFAN
 
 Features
 Product Listing: Display of multiple products with names and prices.
